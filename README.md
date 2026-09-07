@@ -17,7 +17,7 @@ The scraper extracts and structures high-value real estate data variables:
 - **Beds, Baths & Size** (Layout Matrix Configurations)
 - **Full Address** (Verified Geolocation Coordinates)
 - **Listing Type** (Market Status Mapping)
+
 SOOOOOOOOOOOOOOO ENJOYYY AND ANYONE CONTACT ME MY GMAIL ACCOUNT IN MY PROFLIE OKAYYYY
 ---
-*Developed by Saad — Open for Global Python Automation & Data Engineering Contracts
 
