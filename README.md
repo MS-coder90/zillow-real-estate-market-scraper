@@ -20,3 +20,4 @@ The scraper extracts and structures high-value real estate data variables:
 
 ---
 *Developed by Saad Sid — Open for Global Python Automation & Data Engineering Contracts. Contact: saadsid895@gmail.com*
+SOOOOOOOOOOOOOOO ENJOYYY AND ANYONE CONTACT ME MY GMAIL ACCOUNT IN MY PROFLIE OKAYYYY
